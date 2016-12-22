@@ -18,9 +18,6 @@
   ],
   "dependencies": {
     "jquery": ">=1.7",
-    "jquery-slimscroll": "git@github.com:iulianmids/jQuery-slimScroll.git#1.3.8"
-  },
-  "cacat": {
-    "asda": 2
+    "jquery-slimscroll": "git@github.com:iulianmids/jQuery-slimScroll.git"
   }
 }
