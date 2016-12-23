@@ -18,6 +18,6 @@
   ],
   "dependencies": {
     "jquery": ">=1.7",
-    "jquery-slimscroll": "git@github.com:iulianmids/slimscroll.git"
+    "jquery-slimscroll": "https://github.com/iulianmids/slimscroll.git"
   }
 }
